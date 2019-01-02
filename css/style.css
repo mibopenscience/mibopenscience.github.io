@@ -32,3 +32,14 @@
 .post-area a:hover {
   color: #0D0017;
 }
+
+/*
+ * Added specifically for the UV Research Manual
+ *
+ */
+
+.service-item img {
+  border-radius: 50%;
+  height: 82px;
+  width: 82px;
+}
