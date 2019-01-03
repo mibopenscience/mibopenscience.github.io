@@ -16,9 +16,14 @@ keep_files:
 # Site settings
 title: UV Research Manual
 subtitle: "Project pagina"
+#Deployment
 url: "http://uvresearchmanual.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/"
+#Local development
+#url: "http://localhost" # the base hostname & protocol for your site
+# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+#baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
@@ -35,3 +40,20 @@ descriptions:
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
+
+collections_dir: uvcollections
+collections:
+  c00qualitycare:
+    output: true
+  c01aanvragen:
+    #output: true
+  c02startenorganiseren:
+    #output: true
+  c03dataverzamelen:
+    #output: true
+  c04verwerkenenanalyseren:
+    #output: true
+  c05doorwerking:
+    #output: true
+  c06afrondenenarchiveren:
+    #output: true

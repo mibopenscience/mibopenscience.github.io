@@ -43,3 +43,50 @@
   height: 82px;
   width: 82px;
 }
+
+header{
+  padding-bottom: 0px;
+}
+
+header .navbar-default .navbar-nav li a {
+  color: #333333;
+  padding: 0px 10px 10px 15px;
+  font-size: 15px;
+}
+
+header .navbar-default .navbar-nav {
+  padding-top:0px;
+}
+
+.navbar-collapse{
+  padding-left: 0px;
+}
+
+.navbar-brand{
+  padding-bottom: 5px;
+}
+
+.uvcontent-heading {
+  margin-bottom: 30px;
+}
+
+.uvcontent-heading a{
+  color: #7B7B7B;
+}
+
+.uvcontent-heading a:hover{
+  color: #25167A;
+}
+
+#global-header {
+  background: none;
+}
+
+.fa-circle{
+  color:#25167A;
+}
+
+.paragraph-footer p{
+  color: #25167A;
+  font-size: 13px;
+}

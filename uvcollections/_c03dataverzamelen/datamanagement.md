@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Service
-permalink: /service/
+title: Datamanagement
 ---
-# Service page
+
+# Datamanagement
 
 This page is written in Markdown.
