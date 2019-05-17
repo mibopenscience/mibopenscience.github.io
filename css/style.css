@@ -38,6 +38,10 @@
  *
  */
 
+#slider .block-2{
+  background-color: rgba(200, 200, 200, 0.6);
+}
+
 .service-item img {
   border-radius: 50%;
   height: 82px;

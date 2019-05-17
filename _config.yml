@@ -14,16 +14,16 @@ keep_files:
 
 
 # Site settings
-title: UV Research Manual
-subtitle: "Project pagina"
+title: MiB Open Science
+subtitle: "Conceptpagina"
 #Deployment
-url: "http://uvresearchmanual.github.io" # the base hostname & protocol for your site
+#url: "http://mibopenscience.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/"
 #Local development
-#url: "http://localhost" # the base hostname & protocol for your site
+url: "http://localhost" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-#baseurl: ""
+baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
@@ -43,17 +43,12 @@ descriptions:
 
 collections_dir: uvcollections
 collections:
-  c00qualitycare:
+  c00helpdesk:
     output: true
-  c01aanvragen:
+  c01toolbox:
     #output: true
-  c02startenorganiseren:
+  c02training:
     #output: true
-  c03dataverzamelen:
+  c03about:
     #output: true
-  c04verwerkenenanalyseren:
-    #output: true
-  c05doorwerking:
-    #output: true
-  c06afrondenenarchiveren:
-    #output: true
+  
