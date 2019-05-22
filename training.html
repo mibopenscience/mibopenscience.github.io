@@ -12,16 +12,20 @@ permalink: /training/
         <h3 class="text-muted">{{page.beschrijving}}</h3>
       </div>
     </div>
-    <div class="row text-center">
-      {% for paragraph in site.c02starten %}
-      <div class="col-md-4 col-sm-6">
-        <span class="fa-stack fa-4x">
-          <i class="fa fa-circle fa-stack-2x"></i>
-          <i class="{{paragraph.fontawesome}}"></i>
-        </span>
-        <h4 class="uvcontent-heading"><a href="{{ paragraph.url }}">{{ paragraph.title }}</a></h4>
+    <div class="row">
+      <div class="col-md-6 col-sm-12">
+        <h3>Curated list of training possibilities</h3>
+        <p>MOOCs</p>
+        <p>HvA Academy</p>
+        <p>Research schools</p>
       </div>
-      {% endfor %}  
+      <div class="col-md-6 col-sm-12">
+        <h3>MIB Open Science Conversations</h3>
+        <p>Jaarlijkse gebruikerstrainingen Figshare</p>
+        <p>Statistics</p>
+        <p>Guest xxx about FAIR data</p>
+        <p>Summer school</p>
+      </div>
     </div>
   </div>
 </section>
