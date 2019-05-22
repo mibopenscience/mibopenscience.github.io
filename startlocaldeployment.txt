@@ -5,3 +5,12 @@
 2) Ga in de Ruby command line naar de map uvresearchmanual.github.io
 3) Start de server met het commando: bundle exec jekyll serve
 4) Ga naar: http://localhost:4000
+
+--Git adding committing pushing
+---git status
+---git add .
+---git commit -m "add comments to describe commit"
+---git push origin master
+
+N.B. Bovenstaande git-procedure werkt alleen goed zolang niemand anders aan het project werkt.
+Het kan dan namelijk zijn dat je eerst de remote changes moet fetchen/mergen voordat je gaat committen/pushen.
