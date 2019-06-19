@@ -33,14 +33,16 @@
   color: #0D0017;
 }
 
+#feature {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
 /*
  * Added specifically for the UV Research Manual
  *
  */
 
-#slider .block-2{
-  background-color: rgba(200, 200, 200, 0.6);
-}
 
 .service-item img {
   border-radius: 50%;
@@ -53,9 +55,21 @@ header{
 }
 
 header .navbar-default .navbar-nav li a {
-  color: #333333;
+  color: #666666;
   padding: 0px 10px 10px 15px;
   font-size: 15px;
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+  color: #CCCCCC;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus{
+  color: #CCCCCC; 
+}
+
+.navbar-default .navbar-brand {
+  color: #666666;
 }
 
 header .navbar-default .navbar-nav {
@@ -72,18 +86,23 @@ header .navbar-default .navbar-nav {
 
 .uvcontent-heading {
   margin-bottom: 30px;
-}
-
-.uvcontent-heading a{
-  color: #7B7B7B;
-}
-
-.uvcontent-heading a:hover{
   color: #25167A;
+}
+
+#intro a, #slider a{
+  color: #666666;
+}
+
+#intro a:hover, #slider a:hover{
+  color: #CCCCCC;
 }
 
 #global-header {
   background: none;
+}
+
+#feature h4{
+  color: #666666;
 }
 
 .fa-circle{
@@ -93,4 +112,16 @@ header .navbar-default .navbar-nav {
 .paragraph-footer p{
   color: #25167A;
   font-size: 13px;
+}
+
+#uvcontent h3, #call-to-action h3, #uvcontent2 h3 {
+  color: #25167A;
+}
+
+#uvcontent2, #call-to-action {
+  padding: 30px 0px;
+}
+
+.uvicons {
+  color: #25167A;
 }
