@@ -93,6 +93,10 @@ header .navbar-default .navbar-nav {
   color: #666666;
 }
 
+#slider h1{
+  color: #25167A;
+}
+
 #intro a:hover, #slider a:hover{
   color: #CCCCCC;
 }
