@@ -43,6 +43,17 @@
  *
  */
 
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.vertical-align {
+  margin-top: auto;
+  margin-bottom: auto;
+}
 
 .service-item img {
   border-radius: 50%;
@@ -118,7 +129,7 @@ header .navbar-default .navbar-nav {
   font-size: 13px;
 }
 
-#uvcontent h3, #call-to-action h3, #uvcontent2 h3 {
+#uvcontent h3, #call-to-action h3, #uvcontent2 h3, #portfolio-work h3 {
   color: #25167A;
 }
 
