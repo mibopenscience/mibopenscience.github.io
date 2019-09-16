@@ -38,6 +38,7 @@
   padding-bottom: 50px;
 }
 
+
 /*
  * Added specifically for the UV Research Manual
  *
@@ -108,7 +109,7 @@ header .navbar-default .navbar-nav {
   color: #25167A;
 }
 
-#intro a:hover, #slider a:hover{
+#intro a:hover, #slider a:hover, #feature a:hover, #uvcontent a:hover, #call-to-action a:hover{
   color: #CCCCCC;
 }
 
@@ -116,7 +117,7 @@ header .navbar-default .navbar-nav {
   background: none;
 }
 
-#feature h4{
+#feature h4, #feature a, #uvcontent a, #call-to-action a {
   color: #666666;
 }
 
@@ -138,5 +139,13 @@ header .navbar-default .navbar-nav {
 }
 
 .uvicons {
+  color: #25167A;
+}
+
+#call-to-action .list-group-item {
+  background-color: transparent;
+}
+
+#call-to-action .list-group .fas {
   color: #25167A;
 }
