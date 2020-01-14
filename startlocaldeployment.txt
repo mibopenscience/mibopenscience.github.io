@@ -14,3 +14,10 @@
 
 N.B. Bovenstaande git-procedure werkt alleen goed zolang niemand anders aan het project werkt.
 Het kan dan namelijk zijn dat je eerst de remote changes moet fetchen/mergen voordat je gaat committen/pushen.
+
+Remote Github-repo: https://github.com/mibopenscience/mibopenscience.github.io
+
+Collections:
+In _config.yml staat welke actief zijn
+In de map uvcollections staan de verschillende collecties. Op dit moment maar 1 collectie in gebruik (c01toolbox)
+URL-pad naar md-paginas: /c01toolbox/*.html

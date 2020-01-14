@@ -42,9 +42,9 @@ descriptions:
 collections_dir: uvcollections
 collections:
   c00helpdesk:
-    output: true
-  c01toolbox:
     #output: true
+  c01toolbox:
+    output: true
   c02training:
     #output: true
   c03about:
