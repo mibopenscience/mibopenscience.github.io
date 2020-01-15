@@ -24,7 +24,8 @@ The easiest way, at least for medically oriented research, is to go to [equator 
 Equator provides checklists, flow diagrams, structured text and links to elaboration papers for some of the guidelines for most common (health) study types, for example:
 
 | Study type | Reporting guideline |
-| ------ | ----------- |
+| ------ | ------ |
+
 | Randomized trials | [CONSORT](http://www.equator-network.org/reporting-guidelines/consort/), see also extentions: cluster, cross-over, stepped wedge, mutli-arm |
 | Qualitative research | [COREQ](http://www.equator-network.org/reporting-guidelines/coreq/), [SRQR](http://www.equator-network.org/reporting-guidelines/srqr/) |
 | Systematic reviews | [PRISMA](http://www.equator-network.org/reporting-guidelines/prisma/), see also PRISMA-harms, network meta-analysis |
