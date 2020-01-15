@@ -21,18 +21,17 @@ We advise you to identify the reporting guideline(s) applicable to your study de
 
 ## Where do we find them?
 The easiest way, at least for medically oriented research, is to go to [equator network](https://www.equator-network.org/).
-Equator provides checklists, flow diagrams, structured text and links to elaboration papers for some of the guidelines for most common (health) study types, for example:
+Equator provides checklists, flow diagrams, structured text and links to elaboration papers for some of the guidelines for most common (health) study types. See table below. Of course, you may search via Google scholar and other search engines if your research design is not covered by any of the guidelines in the Equator toolbox. 
+
 
 | Study type | Reporting guideline |
 | ------ | ------ |
-
 | Randomized trials | [CONSORT](http://www.equator-network.org/reporting-guidelines/consort/), see also extentions: cluster, cross-over, stepped wedge, mutli-arm |
 | Qualitative research | [COREQ](http://www.equator-network.org/reporting-guidelines/coreq/), [SRQR](http://www.equator-network.org/reporting-guidelines/srqr/) |
 | Systematic reviews | [PRISMA](http://www.equator-network.org/reporting-guidelines/prisma/), see also PRISMA-harms, network meta-analysis |
 | Observational studies | [STROBE](http://www.equator-network.org/reporting-guidelines/strobe/) |
 | Prediction models | [TRIPOD](http://www.equator-network.org/reporting-guidelines/tripod/) |
 
-Of course, you may search via Google scholar and other search engines if your research design is not covered by any of the guidelines in the Equator toolbox. 
 
 
 
