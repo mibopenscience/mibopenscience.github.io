@@ -26,7 +26,8 @@ cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
+markdown: GFM
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
