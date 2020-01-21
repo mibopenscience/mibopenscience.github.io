@@ -6,7 +6,7 @@ title: Reporting guidelines
 fontawesome: fa fa-wrench fa-stack-1x fa-inverse 
 ---
 
-##### This chapter is about the minimally sufficient set of features that investigators should report about their studies in order for readers to understand, replicate, use or include them in literature reviews.
+#### This chapter is about the minimally sufficient set of features that investigators should report about their studies in order for readers to understand, replicate, use or include them in literature reviews.
 
 ---
 
@@ -23,14 +23,33 @@ We advise you to identify the reporting guideline(s) applicable to your study de
 The easiest way, at least for medically oriented research, is to go to [equator network](https://www.equator-network.org/).
 Equator provides checklists, flow diagrams, structured text and links to elaboration papers for some of the guidelines for most common (health) study types. See table below. Of course, you may search via Google scholar and other search engines if your research design is not covered by any of the guidelines in the Equator toolbox. 
 
+<table style="width:100%">  
+	<tr>  
+		<th>Study type</th>  
+		<th>Reporting guideline</th>  
+	</tr>  
+	<tr>  
+		<td>Randomized trials</td>  
+		<td><a href="http://www.equator-network.org/reporting-guidelines/consort/" target="_blank">CONSORT</a>, see also extentions: cluster, cross-over, stepped wedge, mutli-arm</td>
+	</tr>  
+	<tr>  
+		<td>Qualitative research</td>  
+		<td><a href="http://www.equator-network.org/reporting-guidelines/coreq/" target="_blank">COREQ</a>, <a href="http://www.equator-network.org/reporting-guidelines/srqr/" target="_blank">SRQR</a></td>  
+	</tr>
+	<tr>  
+		<td>Systematic reviews</td>  
+		<td><a href="http://www.equator-network.org/reporting-guidelines/prisma/" target="_blank">PRISMA</a>, see also PRISMA-harms, network meta-analysis</td>  
+	</tr>
+	<tr>  
+		<td>Observational studies</td>  
+		<td><a href="http://www.equator-network.org/reporting-guidelines/strobe/" target="_blank">STROBE</a></td>  
+	</tr>
+	<tr>  
+		<td>Prediction models</td>  
+		<td><a href="https://www.equator-network.org/reporting-guidelines/tripod-statement/" target="_blank">TRIPOD</a></td>  
+	</tr>  
+</table>
 
-| Study type | Reporting guideline |
-| ------ | ------ |
-| Randomized trials | [CONSORT](http://www.equator-network.org/reporting-guidelines/consort/), see also extentions: cluster, cross-over, stepped wedge, mutli-arm |
-| Qualitative research | [COREQ](http://www.equator-network.org/reporting-guidelines/coreq/), [SRQR](http://www.equator-network.org/reporting-guidelines/srqr/) |
-| Systematic reviews | [PRISMA](http://www.equator-network.org/reporting-guidelines/prisma/), see also PRISMA-harms, network meta-analysis |
-| Observational studies | [STROBE](http://www.equator-network.org/reporting-guidelines/strobe/) |
-| Prediction models | [TRIPOD](http://www.equator-network.org/reporting-guidelines/tripod/) |
 
 
 
