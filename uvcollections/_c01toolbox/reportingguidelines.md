@@ -19,7 +19,7 @@ Andre van Duin, the infamous Dutch comedian, once joked about a simulated interv
 ## When to use reporting guidelines: at the start and at the end.
 We advise you to identify the reporting guideline(s) applicable to your study design **immediately after you determined which study design you will be using**. We recommend this because the guidelines may suggest features you would not otherwise have thought of using. Then, at the time of writing the report, you revisit the (latest version of the) guideline and use it for reporting. And by the way, more and more good journals are actively requiring you to use reporting guidelines.
 
-## Where do we find them?
+## Where to find reporting guidelines?
 The easiest way, at least for medically oriented research, is to go to [equator network](https://www.equator-network.org/).
 Equator provides checklists, flow diagrams, structured text and links to elaboration papers for some of the guidelines for most common (health) study types. See table below. Of course, you may search via Google scholar and other search engines if your research design is not covered by any of the guidelines in the Equator toolbox. 
 
