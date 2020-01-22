@@ -15,8 +15,11 @@ Do you worry about getting credit for your research because your name is common 
 
 [![ORCID Video](http://img.youtube.com/vi/a1Rijk_TMHA/0.jpg)](http://www.youtube.com/watch?v=a1Rijk_TMHA "ORCID")  
 
+---
+
 ## Why is it important?
 When you connect your research output to your ORCID, your works can always be attributed to you correctly. Next to journal articles, ORCIDs can also be connected to datasets, teaching materials, peer review activities and conference papers. When your research results are associated with an ORCID, the information about these resources can be exchanged effectively across databases, across countries and across academic disciplines. As an increasing number of publishers and funders incorporate or even require an ORCID in their submission process, having one will simplify your manuscript and grant submissions, while improving the visibility of your output and achievements.
+<br><br>
 
 #### Benefits
 * Eliminates name ambiguity. research outputs and activities are correctly attributed to you and only you
@@ -25,17 +28,21 @@ When you connect your research output to your ORCID, your works can always be at
 * Follows you throughout your career no matter where you work
 * Reliably and easily connects you with your contributions and affiliations.
 
+---
+
 ## How do I get and use it?
 See https://orcid.org/:
 1. You can create your ORCID [here](https://orcid.org/register)
 2. Use your ORCID in systems and platforms from grant application to manuscript submission, PURE and beyond 
 3. The more information connected to your ORCID record, the more you’ll benefit from sharing your ORCID - so give the organizations you trust permission to update your record as well as adding your affiliations, emails, other names you’re known by, and more.
+<br><br>
 
 #### PURE and automated search
 You can add your ORCID to your PURE-profile and enable automatic search in Elsevier Scopus with your ORCID to import your output in PURE.
+<br><br>
 
-## More information
+#### More information
 * [https://www.elsevier.com/connect/authors-update/ten-reasons-to-get-and-use-an-orcid-id!](https://www.elsevier.com/connect/authors-update/ten-reasons-to-get-and-use-an-orcid-id!)
-* http://libguides.vu.nl/orcid
+* [https://www.elsevier.com/connect/authors-update/ten-reasons-to-get-and-use-an-orcid-id!](http://libguides.vu.nl/orcid)
 
 

@@ -13,6 +13,8 @@ fontawesome: fa fa-eur fa-stack-1x fa-inverse
 ## What is a data management plan and why is it important?
 The website of [UvA/AUAS research data management](https://rdm.uva.nl/en/planning/planning.html) provides excellent information in both Dutch and English. Note that in case of collecting personal data a DMP is also an important document in light of the GDPR: it shows that you are 'in control' of your research data (if you also handle according to plan).
 
+---
+
 ## When and how?
 * It makes sense to write a DMP for each individual study in your project and it is most efficient to write your DMP after you have written your detailed research protocol/plan. Together with the research protocol/plan and (statistical) analysis plan, the DMP forms an important part of preparing your study.
 * The AUAS works with [DMPonline](https://rdm.uva.nl/en/planning/dmponline/dmponline.html). Here you can choose the most commonly used templates (e.g., AUAS, ZonMw, NWO, SIA). For NWO and SIA the AUAS-template suffices.
