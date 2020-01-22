@@ -102,6 +102,6 @@ Voor WMO-plichtig onderzoek zie hier en hier. Voor aanpassingen van het onderzoe
 
 ## Bijlage verrichterschap
 Zie hier
-<a href="/files/bijlageverrichterschap.docx" download="Bijlage verrichterschap">Bijlage verrichterschap</a>
+<a href="/files/UV_Bijlageverrichterschap_v01_concept.docx" download="Bijlage verrichterschap">Bijlage verrichterschap</a>
 
 
