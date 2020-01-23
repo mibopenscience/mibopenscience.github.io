@@ -4,6 +4,7 @@ author: Niek
 date: 20-01-2020
 title: Open access publishing
 fontawesome: fa fa-eur fa-stack-1x fa-inverse
+permalink: openaccesspublishing
 ---
 
 #### Resultaten van publiek gefinancierd onderzoek moeten onbelemmerd hun weg kunnen vinden naar onderwijs, onderzoekers en het werkveld. De HvA heeft het beleid ‘100% Open Access’ om dit doel te bereiken. Voor wetenschappelijke publicaties zijn er twee routes naar open access, een gouden en een groene route.

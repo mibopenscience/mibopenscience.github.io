@@ -4,6 +4,7 @@ author: Niek
 date: 20-01-2020
 title: Data Management Plan
 fontawesome: fa fa-eur fa-stack-1x fa-inverse
+permalink: datamanagementplan
 ---
 
 #### A data management plan (DMP) is a digital document in which you describe what data you will collect, how you are going to store and manage the data during the project, and what will happen to the data after the project is finished. 

@@ -4,6 +4,7 @@ author: Niek
 date: 20-01-2020
 title: Research protocol
 fontawesome: fa fa-eur fa-stack-1x fa-inverse
+permalink: researchprotocol
 ---
 
 #### A research- or study protocol is a formal and detailed recipe. It describes why, what and how you will be collecting and summarizing observations, whether qualitative or quantitative. 

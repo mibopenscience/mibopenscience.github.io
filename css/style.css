@@ -149,3 +149,11 @@ header .navbar-default .navbar-nav {
 #call-to-action .list-group .fas {
   color: #25167A;
 }
+
+.toolboxcolumn1{
+  background-color: #F5F5F5;
+}
+
+.toolboxtable a {
+ color: #25167A !important;
+}

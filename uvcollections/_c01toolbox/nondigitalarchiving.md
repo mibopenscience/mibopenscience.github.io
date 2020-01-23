@@ -4,6 +4,7 @@ author: Niek
 date: 20-01-2020
 title: Non-digital archiving
 fontawesome: fa fa-eur fa-stack-1x fa-inverse
+permalink: nondigitalarchiving
 ---
 
 #### Non-digital archiving. Upon completion of your study hard copy research data and paper documentation such as CRF's and informed consents should be archived properly for an appropriate period of time.

@@ -3,7 +3,8 @@ layout: uvparagraphs
 author: Niek
 date: 20-01-2020
 title: Reporting guidelines
-fontawesome: fa fa-wrench fa-stack-1x fa-inverse 
+fontawesome: fa fa-wrench fa-stack-1x fa-inverse
+permalink: /reportingguidelines/ 
 ---
 
 #### This chapter is about the minimally sufficient set of features that investigators should report about their studies in order for readers to understand, replicate, use or include them in literature reviews.

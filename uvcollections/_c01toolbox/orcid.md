@@ -3,7 +3,8 @@ layout: uvparagraphs
 author: Niek
 date: 20-01-2020
 title: ORCID
-fontawesome: fa fa-link fa-stack-1x fa-inverse 
+fontawesome: fa fa-link fa-stack-1x fa-inverse
+permalink: orcid 
 ---
 
 #### Get an [ORCID](https://orcid.org/) to increase the visibility of your research and to save time with manuscript submissions or grant applications.
