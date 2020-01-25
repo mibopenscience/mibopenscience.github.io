@@ -408,7 +408,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding: 0;
 }
 #portfolio-work .block .portfolio-menu {
-  padding-bottom: 30px;
+  /*padding-bottom: 30px;*/
   text-align: center;
 }
 #portfolio-work .block .portfolio-menu ul {

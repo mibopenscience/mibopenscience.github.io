@@ -125,12 +125,12 @@ header .navbar-default .navbar-nav {
   color:#25167A;
 }
 
-.paragraph-footer p{
+.paragraph-footer{
   color: #25167A;
   font-size: 13px;
 }
 
-#uvcontent h3, #call-to-action h3, #uvcontent2 h3, #portfolio-work h3 {
+#uvcontent h3, #call-to-action h3, #uvcontent2 h3 {
   color: #25167A;
 }
 
@@ -156,4 +156,10 @@ header .navbar-default .navbar-nav {
 
 .toolboxtable a {
  color: #25167A !important;
+}
+#portfolio-work .block .portfolio-contant ul li a h3 {
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: white;
 }

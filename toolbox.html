@@ -1,20 +1,137 @@
 ---
 layout: chapter
 title: Open science research manual
-beschrijving: Procedures, templates and tools for each research stage 
+beschrijving: Manual chapters per study phase
 permalink: /toolbox/
 ---
+
+<section id="portfolio-work">
+    <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="block">
+              <div class="portfolio-menu">
+                <h3 class="text-muted">{{page.beschrijving}}</h3>
+                <p>
+                  Here you will find the chapters of the Urban Vitaly / Mensen in Beweging research manual that we have worked on over last year in close collaboration with PhD-students, (junior-)researchers and the AUAS Ethical Committee. Most procedures described have not yet been formally approved by the respective faculties; some are AUAS-policy. However, we think that working along these lines increases quality, transparency and reproducibility of research (output) and decreases research waste. It is based on the Netherlands Code of Conduct for Research Integrity, the anti research waste movement and principles of open science and good research practices. We may not cover the wide range and applications of practice-oriented research, but we think that most chapters hold true for all research disciplines. The manual is primarily intended for AUAS researchers and is focussed at the scientific quality process. Of course there are other forms of integrity and quality but this falls outside the scope of this manual. The challenge now is to add or change information that may be specific to practice-oriented research and to implement procedures as a 'standard' workflow.
+                </p>
+                <ul>
+                    <li class="filter" data-filter="all">Everything</li>
+                    <li class="filter" data-filter=".PLAN">Planning</li>
+                    <li class="filter" data-filter=".COLL">Data collection</li>
+                    <li class="filter" data-filter=".PROC">Processing</li>
+                    <li class="filter" data-filter=".FINI">Finishing</li>
+                    <li class="filter" data-filter=".OSCI">Open science</li>
+                </ul>
+              </div>
+              <div class="portfolio-contant">
+                <ul id="portfolio-contant-active">
+                  <li class="mix PLAN OSCI">
+                    <a data-toggle="modal" href="{{ site.baseurl }}/orcid">
+                      <img src="{{ site.baseurl }}/img/portfolio/color1.jpg" alt="ORCID">
+                      <div class="position-center">
+                        <h3>ORCID</h3>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="mix PLAN FINI">
+                    <a data-toggle="modal" href="{{ site.baseurl }}/reportingguidelines">
+                      <img src="{{ site.baseurl }}/img/portfolio/color2.jpg" alt="Reporting">
+                        <div class="position-center">
+                          <h3>Reporting guidelines</h3>
+                        </div>
+                    </a>
+                  </li>
+                  <li class="mix PLAN">
+                    <a data-toggle="modal" href="{{ site.baseurl }}/researchprotocol">
+                      <img src="{{ site.baseurl }}/img/portfolio/color3.jpg" alt="Protocol">
+                        <div class="position-center">
+                          <h3>Research protocol/plan</h3>
+                        </div>
+                    </a>
+                  </li>
+                  <li class="mix PLAN">
+                    <a data-toggle="modal" href="{{ site.baseurl }}/datamanagementplan">
+                      <img src="{{ site.baseurl }}/img/portfolio/color4.jpg" alt="DMP">
+                      <div class="position-center">
+                        <h3>Data Management Plan</h3>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="mix PLAN">
+                    <a data-toggle="modal" href="{{ site.baseurl }}/analysisplan">
+                      <img src="{{ site.baseurl }}/img/portfolio/color5.jpg" alt="SAP">
+                      <div class="position-center">
+                        <h3>(Statistical) Analysis Plan</h3>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="mix PLAN OSCI">
+                    <a data-toggle="modal" href="{{ site.baseurl }}/preregistration">
+                      <img src="{{ site.baseurl }}/img/portfolio/color6.jpg" alt="Preregistration">
+                        <div class="position-center">
+                          <h3>Preregistration</h3>
+                        </div>
+                    </a>
+                  </li>
+                  <li class="mix PLAN">
+                    <a data-toggle="modal" href="{{ site.baseurl }}/ethicalappraisal">
+                      <img src="{{ site.baseurl }}/img/portfolio/color7.jpg" alt="Ethics">
+                      <div class="position-center">
+                        <h3>Ethical appraisal</h3>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="mix PLAN COLL PROC FINI OSCI">
+                    <a data-toggle="modal" href="{{ site.baseurl }}/privacy">
+                      <img src="{{ site.baseurl }}/img/portfolio/color8.jpg" alt="Privacy">
+                      <div class="position-center">
+                        <h3>Privacy</h3>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="mix FINI OSCI">
+                    <a data-toggle="modal" href="{{ site.baseurl }}/datapackage">
+                      <img src="{{ site.baseurl }}/img/portfolio/color1.jpg" alt="FAIR">
+                      <div class="position-center">
+                        <h3>FAIR: data package</h3>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="mix FINI">
+                    <a data-toggle="modal" href="{{ site.baseurl }}/nondigitalarchiving">
+                      <img src="{{ site.baseurl }}/img/portfolio/color2.jpg" alt="Non-digital archiving">
+                      <div class="position-center">
+                        <h3>Non-digital archiving</h3>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="mix FINI OSCI">
+                    <a data-toggle="modal" href="{{ site.baseurl }}/openaccesspublishing">
+                      <img src="{{ site.baseurl }}/img/portfolio/color3.jpg" alt="Open access publishing">
+                        <div class="position-center">
+                          <h3>Open access</h3>
+                        </div>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+</section>
 
 <section id="uvcontent">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h3 class="text-muted">{{page.beschrijving}}</h3>
+        <h3 class="text-muted">Accompanying open science tools</h3>
         <p>
-          Some introduction text about the Open Science Research Manual. Why is it important. What we hope to achieve. Also, we may not cover the wide range and applications of practice-oriented research so the manual will be constantly updated with new insights. However, we think that research integrity and open science is essential and holds true for all research disciplines. The manual is based on Netherlands Code of Conduct for Research Integrity, anti research waste movement and principles of open science and good research practices. Several levels (international, institutional, etc); the handbook is primarily intended for researchers, research teams at the level of the research process. Focus is on scientific integrity and open science. Of course there are other forms of integrity and quality processes, but this falls outside the scope of this manual https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001747
+          
         </p>
         <p>
-          Below you'll find a quick overview of the Open Science Research Manual. Items denoted with an * are the chapters in the manual.
+          Below a quick overview of and link to available tools. Items with an * indicate the manual chapters. Explanation of the abbreviations underneath the table.
         </p>
       </div>
     </div>
@@ -48,7 +165,7 @@ permalink: /toolbox/
               <td>DMPonline<br><a href="https://az.hva.nl/medewerkers/bewegen-sport-voeding/az-lemmas/medewerkers/hva-breed/juridische-zaken/avg/privacy.html" target="_blank">HvA privacy tools</a><br>Informed consent</td>
             </tr>
             <tr>
-              <td><a href="{{ site.baseurl }}/ethicalappraisal">Ethical appraisal*</a>. WMO: which party is sponsor?</td>
+              <td><a href="{{ site.baseurl }}/ethicalappraisal">Ethical appraisal*</a></td>
               <td></td>
               <td>ECO or METc<br>Informed consent</td>
             </tr>
@@ -117,6 +234,11 @@ permalink: /toolbox/
             </tr>
           </tbody>
         </table>  
+      </div>
+      <div class="col-lg-12">
+        <p>
+          Abbreviations. (S)AP=(Statistical)Analysis Plan; DMP=Data Management Plan; OSF=Open Science Framework; DAG=Directed Acyclic Graphs; NTR=Nederlands Trial Register; WMO=Wet medisch-wetenschappelijk onderzoek; ECO=Ethische Commissie Onderzoek HvA; METc=Medisch-ethische toetsingscommissie; FAIR=Findable, Accessible, Interoperable, Reusable; FBSV=Faculteit Bewegen, Sport en Voeding; FG=Faculteit Gezondheid
+        </p>
       </div>
     </div>
   </div>
