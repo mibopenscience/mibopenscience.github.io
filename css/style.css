@@ -157,9 +157,14 @@ header .navbar-default .navbar-nav {
 .toolboxtable a {
  color: #25167A !important;
 }
+
 #portfolio-work .block .portfolio-contant ul li a h3 {
   font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: white;
+}
+
+#portfolio-work .portfolio-menu p {
+  margin-top: 10px;
 }
