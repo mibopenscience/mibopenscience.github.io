@@ -9,19 +9,8 @@ fontawesome: fa fa-eur fa-stack-1x fa-inverse
 permalink: analysisplan
 ---
 
-#### A (statistical) analysis plan (SAP) is ...
+#### (Statistical) analysis plan (SAP)
 
 ---
 
-## What is a (statistical) analysis plan? 
-To do
-
----
-
-## Why is it important?
-To do
-
----
-
-## When and how?
-To do
+[work in progress]

@@ -13,13 +13,13 @@ permalink: nondigitalarchiving
 
 ---
 
-## What is non-digital archiving?
+### What is non-digital archiving?
 Non-digital archiving refers to the long-term storage and preservation of hard copy research materials and paper documentation after finishing your study or research project. Coupled with digital archiving, reporting and publishing your research output, non-digital archiving marks the completion of your study or research.
 
-## Why is it important?
+### Why is it important?
 Archiving your research materials properly is one of the 'good research practices' and important from ethical, integrity and privacy perspective. By archiving properply you make sure that  data can be traced back and verified at short notice and in the informed consent form you promised participants to manage their data securely also after study completion.     
 
-## How to?
+### How to?
 * Before archiving it is important to determine which institution/party is responsible and which guidelines to follow. For example for WMO-studies, the sponsor is responsible for archiving research materials. 
 * For not-WMO AUAS-studies, hard copy research data and paper documentation should be, if possible, digitised. If digitisation is not possible or desirable, one of the research archives (location FBSV or location FG) should be used
 * AUAS complies with the Netherlands Code of Conduct for Research Integrity to keep research data 'for a suitable period'. A commonly used period is a minimum of ten years. For WMO-studies storage period is 15 or 20 years
