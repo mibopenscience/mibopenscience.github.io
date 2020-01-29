@@ -11,7 +11,7 @@ permalink: privacy
 
 ``` In Dutch only ```
 
-#### Privacy. This chapter is work on progress. For now, just some links.
+#### Privacy. This chapter is work in progress and for now just shows some links where you can find more information.
 
 ---
 
