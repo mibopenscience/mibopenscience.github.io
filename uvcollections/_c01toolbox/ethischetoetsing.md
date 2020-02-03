@@ -63,7 +63,7 @@ Het onderzoek kan geevalueerd worden door de ECO. De ECO kan onderzoek dat niet-
 - Zorg ervoor dat het dossier met aan te leveren documenten compleet en accuraat is. Let ook op de naamgeving, versienummering en het format van de documenten. De indieningsprocedures staan beschreven op de websites van de METc [locatie VUmc](https://www.vumc.nl/research/overzicht/medisch-ethische-toetsingscommissie/wmo/indienen.htm) en [locatie AMC](https://www.amc.nl/web/research-75/medisch-ethische-toetsings-commissie-metc/metc/indienen-bij-metc-amc.htm)
 - Houd rekening met de doorlooptijd van de METc en de tijd die het kost om een WMO-aanvraag voor te bereiden en in te dienen
 - Houd in de projectbegroting rekening met kosten. Het gaat niet alleen om kosten voor de toetsing zelf, maar bijvoorbeeld ook om kosten voor verzekeringen, trainingen of monitors
-- Maak een weloverwogen keuze over bij welke partij het verrichterschap ligt. Verrichterschap brengt verplichtingen en verantwoordelijkheden met zich mee. Zie <a href="/files/UV_Bijlageverrichterschap_v01_concept.docx" download="Bijlage verrichterschap">Bijlage verrichterschap</a>
+- Maak een weloverwogen keuze over bij welke partij het verrichterschap ligt. Verrichterschap brengt verplichtingen en verantwoordelijkheden met zich mee. Zie 'Bijlage verrichterschap' onderaan deze pagina
 - Mogelijke uitkomsten: a) afkeuring zonder dat er toetsing heeft plaatsgevonden omdat aangeleverde informatie niet compleet/juist is; b) afkeuring of aanpassing omdat de commissie het onderzoek medisch-ethisch niet verantwoord vindt; c) meer informatie nodig; d) goedkeuring
 - Meer informatie over de beoordeling zie [hier](https://www.vumc.nl/research/overzicht/medisch-ethische-toetsingscommissie/wmo/beoordeling.htm)
 <br><br>
