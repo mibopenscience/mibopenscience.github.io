@@ -15,22 +15,20 @@ permalink:  ethicalappraisal
 
 ---
 
+Veel informatie over ethische aspecten van praktijkgericht onderzoek is te vinden in het AZ-lemma ['Onderzoek: Ethiek en integriteit'](https://az.hva.nl/medewerkers/bewegen-sport-voeding/az-lemmas/medewerkers/hva-breed/oo/onderzoek-ethiek-en-integriteit/onderzoek-ethiek-en-integriteit.html). Het stappenplan hieronder is met name gericht op de procedurele stappen waaraan gedacht moet worden bij ethische toetsing/evaluatie. 
+
 ### Stap 1. Advies/toetsing gewenst en/of noodzakelijk?
 Het onderzoeksteam moet beslissen of ethisch(e) advies/toetsing gewenst of noodzakelijk is. Bij WMO-plichtig onderzoek is ethische goedkeuring wettelijk verplicht. Bij niet WMO-plichtig onderzoek is er geen wettelijke verplichting, maar kunnen er wel redenen zijn om het onderzoek ethisch te laten evalueren.
 <br><br>
+
 #### Niet WMO
-Redenen om niet WMO-plichtig onderzoek ethisch te laten toetsen kunnen zijn:
+HvA-beleid stelt momenteel ethische evaluatie van (praktijkgericht) onderzoek niet verplicht. Nader Urban Vitality beleid is in de maak. Redenen om niet WMO-plichtig onderzoek ethisch te laten evalueren kunnen zijn:
 - Het onderzoeksteam vindt zelf ethische evaluatie van het onderzoek door een onafhankelijke partij waardevol
 - Een tijdschrift of subsidiegever vraagt om een brief die bevestigt dat toetsing niet nodig is/was (‘exemption’) of om goedkeuring van een ethische commissie
 <br><br>
 
-```
-Verplichte ethische evaluatie niet WMO-onderzoek?
-HvA-beleid stelt momenteel ethische evaluatie van (praktijkgericht) onderzoek niet verplicht. Nader Urban Vitality beleid is in de maak.
-```
-<br>
 #### Amsterdam Public Health (APH) en Amsterdam Movement Science (AMS)
-Als het onderzoek ingebed is in het APH-instituut of AMS-netwerk dient het onderzoeksteam eerst na te gaan of een review van het onderzoekvoorstel door de respectievelijke ‘scientific quality committees’ noodzakelijk is. Dat is het geval indien het onderzoek nog niet is gestart en minstens een van de onderzoekers een (deel)aanstelling heeft bij een bij de APH/AMS aangesloten afdeling.
+Als het onderzoek ingebed is in het APH-instituut of AMS-netwerk dient het onderzoeksteam na te gaan of een review van het onderzoekvoorstel door een APH of AMS ‘scientific quality committees’ (CWO, Commissie Wetenschappelijk Onderzoek) noodzakelijk is. Ook dit proces kost tijd. Voor meer informatie (APH) zie [hier](https://www.amsterdamresearch.org/web/public-health/about/scientific-quality.htm)
 
 ---
 
@@ -47,72 +45,60 @@ Er zijn twee hulpmiddelen om deze (niet altijd waterdichte) afweging te maken:
 
 ### Stap 3. Welke route moet ik nemen?
 
-#### WMO-plichtig onderzoek >>>> METc
-Het onderzoek moet getoetst worden door een erkende METc (in voor de HvA uitzonderlijke gevallen moet het onderzoek getoetst worden door de CCMO. Zie hier). We maken veelal gebruik van de METc van het AUMC, [locatie AMC](https://www.amc.nl/web/research-75/medisch-ethische-toetsings-commissie-metc.htm) of [locatie VUmc](https://www.vumc.nl/research/overzicht/medisch-ethische-toetsingscommissie.htm).
+#### WMO-plichtig onderzoek >> METc
+Het onderzoek moet getoetst worden door een erkende METc (in voor de HvA [uitzonderlijke gevallen](https://www.ccmo.nl/onderzoekers/primaire-indiening-bij-de-toetsingscommissie/toetsingscommissie-erkende-metc-of-ccmo/toetsing-door-de-ccmo) moet het onderzoek getoetst worden door de CCMO). We maken veelal gebruik van de METc van het AUMC, [locatie AMC](https://www.amc.nl/web/research-75/medisch-ethische-toetsings-commissie-metc.htm) of [locatie VUmc](https://www.vumc.nl/research/overzicht/medisch-ethische-toetsingscommissie.htm).
 <br><br>
 
-#### Twijfel over WMO-plichtigheid >>>> dagelijks bestuur METc
+#### Twijfel over WMO-plichtigheid >> dagelijks bestuur METc
 Als je met de hulpmiddelen uit stap 2 toch twijfelt over de WMO-plichtigheid en/of een niet-WMO verklaring nodig hebt, dan kun je een niet-WMO indiening doen bij het dagelijks bestuur van een METc (zie METc [locatie VUmc](https://www.vumc.nl/research/overzicht/medisch-ethische-toetsingscommissie/niet-wmo/indienen.htm) en [locatie AMC](https://www.amc.nl/web/research-75/medisch-ethische-toetsings-commissie-metc/metc/wel-of-niet-wmo-plichtig-1.htm)). Het onderzoek wordt dan niet (per se) ethisch getoetst, maar alleen beoordeeld op WMO-plichtigheid. Als het dagelijks bestuur van mening is dat het onderzoek wel WMO-plichtig is,  word je doorverwezen naar de WMO-procedure van de desbetreffende METc. Als het dagelijks bestuur van mening is dat het onderzoek niet WMO-plichtig is, krijg je een (engelstalige) niet-WMO verklaring. Deze kan eventueel gebruikt worden bij publicatie in een wetenschappelijk tijdschrift.
-
-Indien het onderzoek door het dagelijks bestuur van een METC niet ethisch is getoetst (zoals bij de METc van het AUMC, locatie AMC), moet het onderzoeksteam bij een niet-WMO beoordeling alsnog beslissen of ze het onderzoek willen laten evalueren door de ECO. 
 <br><br>
 
-#### Geen WMO-plichtig onderzoek >>>> ECO
-Het onderzoek kan geevalueerd worden door de ECO. De ECO kan onderzoek dat niet-WMO plichtig is ethisch evalueren en van (een) goedkeuring(sbrief) voorzien.
+#### Geen WMO-plichtig onderzoek >> ECO
+Het onderzoek kan geevalueerd worden door de ECO. De ECO kan onderzoek dat niet-WMO plichtig is ethisch evalueren en van een positief of negatief advies voorzien. Bij positief advies stuurt de ECO een (Engelstalige) brief die gebruikt kan worden bij een tijdschrift of subsidiegever.
 
 ---
 
 ### Stap 4. Aandachtspunten routes en indiening
-####Aandachtspunten route METc
-Zie voor de procedures de websites van de METc AMC en METc VUmc
-Houd rekening met de doorlooptijd van de METc en de tijd die het kost om een WMO-aanvraag voor te bereiden en in te dienen.
-Zorg ervoor dat het dossier met aan te leveren documenten compleet en accuraat is. Let ook op de naamgeving, versienummering en het format van de documenten. Op de websites van zowel de METc van het AMC als die van het VUmc staan checklists en informatie over de indieningsprocedure.
-Houd (in je begroting) rekening met de kosten die bij een WMO-plichtige studie komen kijken. Het gaat niet alleen om de kosten van de toetsing zelf, maar bijvoorbeeld ook om verzekerings- en trainingskosten.
-Maak een weloverwogen keuze over bij welke partij het verrichterschap ligt. Verrichterschap brengt verplichtingen en verantwoordelijkheden met zich mee. Zie hier voor meer informatie over verrichterschap.
+#### Aandachtspunten route METc
+- Zorg ervoor dat het dossier met aan te leveren documenten compleet en accuraat is. Let ook op de naamgeving, versienummering en het format van de documenten. De indieningsprocedures staan beschreven op de websites van de METc [locatie VUmc](https://www.vumc.nl/research/overzicht/medisch-ethische-toetsingscommissie/wmo/indienen.htm) en [locatie AMC](https://www.amc.nl/web/research-75/medisch-ethische-toetsings-commissie-metc/metc/indienen-bij-metc-amc.htm)
+- Houd rekening met de doorlooptijd van de METc en de tijd die het kost om een WMO-aanvraag voor te bereiden en in te dienen
+- Houd in de projectbegroting rekening met kosten. Het gaat niet alleen om kosten voor de toetsing zelf, maar bijvoorbeeld ook om kosten voor verzekeringen, trainingen of monitors
+- Maak een weloverwogen keuze over bij welke partij het verrichterschap ligt. Verrichterschap brengt verplichtingen en verantwoordelijkheden met zich mee. Zie <a href="/files/UV_Bijlageverrichterschap_v01_concept.docx" download="Bijlage verrichterschap">Bijlage verrichterschap</a>
+- Mogelijke uitkomsten: a) afkeuring zonder dat er toetsing heeft plaatsgevonden omdat aangeleverde informatie niet compleet/juist is; b) afkeuring of aanpassing omdat de commissie het onderzoek medisch-ethisch niet verantwoord vindt; c) meer informatie nodig; d) goedkeuring
+- Meer informatie over de beoordeling zie [hier](https://www.vumc.nl/research/overzicht/medisch-ethische-toetsingscommissie/wmo/beoordeling.htm)
 <br><br>
 
-####Aandachtspunten route dagelijks bestuur METc
-Zie voor de procedures de websites van de METc AMC en METc VUmc
-Houd rekening met de doorlooptijd. Het dagelijks bestuur kan beslissen dat je onderzoek WMO-plichtig is. Daarin kun je meegaan of je kunt proberen te beargumenteren waarom je het daar niet mee eens bent of je past het onderzoek aan waardoor het niet langer WMO-plichtig is (en biedt het nogmaals aan bij het dagelijks bestuur).
-Zorg ervoor dat het dossier met aan te leveren documenten compleet en accuraat is.
-Ook aan deze route zijn kosten verbonden, zij het lager dan bij een volledige toetsing.
-Een niet-WMO verklaring is niet hetzelfde als een ethische goedkeuring van een commissie. Bij een niet-WMO verklaring wordt alleen verklaard dat het onderzoek niet onder de WMO valt (naar het oordeel van het dagelijks bestuur). Dat is geen ethische toetsing1.
+#### Aandachtspunten route dagelijks bestuur METc
+- Zorg ervoor dat het dossier met aan te leveren documenten compleet en accuraat is. Let ook op de naamgeving, versienummering en het format van de documenten. De indieningsprocedures staan beschreven op de websites van de METc [locatie VUmc](https://www.vumc.nl/research/overzicht/medisch-ethische-toetsingscommissie/niet-wmo/indienen.htm) en [locatie AMC](https://www.amc.nl/web/research-75/medisch-ethische-toetsings-commissie-metc/metc/wel-of-niet-wmo-plichtig-1.htm)
+- Houd rekening met de doorlooptijd. Het dagelijks bestuur kan beslissen dat je onderzoek WMO-plichtig is. Daarin kun je meegaan of je kunt proberen te beargumenteren waarom je het daar niet mee eens bent of je past het onderzoek aan waardoor het niet langer WMO-plichtig is (en biedt het nogmaals aan bij het dagelijks bestuur)
+- Ook aan deze route zijn kosten verbonden, maar deze zijn lager dan bij een volledige toetsing
+- Een niet-WMO verklaring is niet hetzelfde als een ethische goedkeuring van een METc. Bij een niet-WMO verklaring wordt alleen verklaard dat het onderzoek niet onder de WMO valt (naar het oordeel van het dagelijks bestuur). Dat is geen ethische toetsing. Het dagelijks bestuur van de METc locatie VUmc voegt nog wel een ethisch advies toe; die van de METc locatie AMC niet. In het laatste geval moet het het onderzoeksteam alsnog beslissen of ze het onderzoek willen laten evalueren door de ECO
+- Mogelijke uitkomsten: a) afkeuring omdat aangeleverde informatie niet compleet/juist is; b) aanpassing of meer informatie nodig; c) niet-WMO verklaring; d) doorverwijzing naar METc omdat het dagelijks bestuur het onderzoek toch WMO-plichtig acht
 <br><br>
 
-####Aandachtspunten route ECO
-* Zie voor de procedure de website van de ECO
-* De ECO is geen medisch-ethische toetsingscommissie, heeft geen wettelijke status, en kan geen niet-WMO verklaring afgeven.
-* Houd rekening met de doorlooptijd.
-* Zorg ervoor dat het dossier met aan te leveren documenten compleet en accuraat is.
+#### Aandachtspunten route ECO
+- Voor informatie over de procedure, doorlooptijden en aan te leveren doucementen zie de [website van de ECO](https://az.hva.nl/medewerkers/bewegen-sport-voeding/az-lemmas/medewerkers/hva-breed/oo/onderzoek-ethiek-en-integriteit/ethische-commissie-onderzoek/ethische-commissie-onderzoek.html)
+- De ECO is geen medisch-ethische toetsingscommissie, heeft geen wettelijke status, en kan geen niet-WMO verklaring afgeven
+- Mogelijke uitkomsten: a) afkeuring omdat aangeleverde informatie niet compleet/juist is; b) negatief advies of aanpassing omdat de ECO het onderzoek ethisch niet verantwoord vindt; c) meer informatie nodig; d) doorverwijzing naar (dagelijks bestuur) METc omdat de ECO twijfelt over WMO-plichtigheid; e) positief advies
 
 ---
 
-### Stap 5. Goedkeuring, afkeuring, aanpassing, extra informatie
-Mogelijkheden:
-* METc / dagelijks bestuur METc / ECO: Afkeuring zonder dat er toetsing heeft plaatsgevonden omdat de aangeleverde informatie niet compleet/juist is
-* METc / ECO: Negatief oordeel/aanpassing – de commissie vindt het onderzoek ethisch niet verantwoord of vraagt om aanpassing
-* METc / ECO: De commissie heeft nog vragen, opmerkingen of vraagt om extra informatie
-* METc / ECO: Positief oordeel
-* Dagelijks bestuur METc: niet-WMO verklaring
-
-Voor meer informatie over de beoordeling van WMO-plichtig onderzoek en waarmee je rekening dient te houden, zie hier.
+### Stap 5. Archivering na besluit
+De communicatie met de METc of ECO, de ingediende documenten en de besluitvorming zijn essentiële projectdocumenten die door het onderzoeksteam goed bewaard moeten worden in een projectmap/folder of Trial Master File.
 
 ---
 
-### Stap 6. Archivering na besluit
-De communicatie met de METc, de ingediende documenten en de besluitvorming zijn essentiële projectdocumenten die door het onderzoeksteam goed bewaard moeten worden in een projectmap/folder of Trial Master File.
-
----
-
-### Stap 7. Amendementen en (voortijdige) beëindiging van het onderzoek
-Voor WMO-plichtig onderzoek zie hier en hier. Voor aanpassingen van het onderzoek na de verklaring van het dagelijks bestuur van de METc zie hier. Voor aanpassingen van het onderzoek na het positieve oordeel van de ECO: neem contact op met de ECO.
+### Stap 6. Amendementen en (voortijdige) beëindiging van het onderzoek
+- WMO-plichtig onderzoek: zie [hier](https://www.vumc.nl/research/overzicht/medisch-ethische-toetsingscommissie/wmo/amendementen.htm) en [hier](https://www.vumc.nl/research/overzicht/medisch-ethische-toetsingscommissie/wmo/afsluiten.htm)
+- Voor aanpassingen van het onderzoek na de verklaring van het dagelijks bestuur van de METc: zie [hier](https://www.vumc.nl/research/overzicht/medisch-ethische-toetsingscommissie/niet-wmo/amendementen.htm)
+- Voor aanpassingen van het onderzoek na het positieve oordeel van de ECO: neem contact op met de [ECO](https://az.hva.nl/medewerkers/bewegen-sport-voeding/az-lemmas/medewerkers/hva-breed/oo/onderzoek-ethiek-en-integriteit/ethische-commissie-onderzoek/ethische-commissie-onderzoek.html)
 
 ---
 
 #### Bijlage verrichterschap
 Zie hier
-<a href="/files/UV_Bijlageverrichterschap_v01_concept.docx" download="Bijlage verrichterschap">Bijlage verrichterschap</a>
-<br><br>
+<a href="/files/UV_Bijlageverrichterschap_v02_concept.docx" download="Bijlage verrichterschap">Bijlage verrichterschap</a>
+
 ---
 
 #### Afkortingen
@@ -123,3 +109,7 @@ Zie hier
 - METc: Medisch-Ethische Toetsingscommissie
 - WMO: Wet Medisch-wetenschappelijk Onderzoek met mensen
 
+---
+
+#### Ethische waarden voor een verantwoorde digitale stad
+[Tada manifest](https://tada.city/)
