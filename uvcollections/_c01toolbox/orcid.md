@@ -1,8 +1,8 @@
 ---
 layout: uvparagraphs
 author: NvU
-date: 20-01-2020
-version: 0.1
+date: 17-02-2020
+version: 0.2
 status: concept
 title: ORCID
 fontawesome: fa fa-link fa-stack-1x fa-inverse
@@ -34,7 +34,7 @@ When you connect your research output to your ORCID, your works can always be at
 ---
 
 ### How do I get and use it?
-See https://orcid.org/:
+See also [here](https://orcid.org/):
 1. You can create your ORCID [here](https://orcid.org/register)
 2. Use your ORCID in systems and platforms from grant application to manuscript submission, PURE and beyond 
 3. The more information connected to your ORCID record, the more you’ll benefit from sharing your ORCID - so give the organizations you trust permission to update your record as well as adding your affiliations, emails, other names you’re known by, and more.
@@ -46,6 +46,6 @@ You can add your ORCID to your PURE-profile and enable automatic search in Elsev
 
 #### More information
 * [https://www.elsevier.com/connect/authors-update/ten-reasons-to-get-and-use-an-orcid-id!](https://www.elsevier.com/connect/authors-update/ten-reasons-to-get-and-use-an-orcid-id!)
-* [https://www.elsevier.com/connect/authors-update/ten-reasons-to-get-and-use-an-orcid-id!](http://libguides.vu.nl/orcid)
+* [http://libguides.vu.nl/orcid](http://libguides.vu.nl/orcid)
 
 
