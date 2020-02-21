@@ -105,6 +105,11 @@ header .navbar-default .navbar-nav {
   color: #666666;
 }
 
+#intro {
+  padding-top: 100px;
+  padding-bottom: 0px;
+}
+
 #slider h1{
   color: #25167A;
 }
