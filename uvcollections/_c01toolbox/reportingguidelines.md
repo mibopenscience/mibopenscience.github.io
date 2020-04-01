@@ -1,36 +1,35 @@
 ---
 layout: uvparagraphs
 author: GtR
-date: 20-01-2020
-version: 0.1
+date: 01-04-2020
+version: 0.2
 status: concept
 title: Reporting guidelines
 fontawesome: fa fa-wrench fa-stack-1x fa-inverse
 permalink: reportingguidelines
 ---
 
-#### This chapter is about the minimally sufficient set of features that investigators should report about their studies in order for readers to understand, replicate, use or include them in literature reviews.
+#### This chapter is about tools that will help you with reporting your research in such a way that readers can understand, replicate or use it.
 
 ---
 
-## What are reporting guidelines?
-Incomplete reporting can be very annoying to anyone who truly wants to understand a scientific paper. In that sense, incomplete reporting is a source of waste. Especially, the lack of reporting about key methodological aspects ((how) did they randomize?, how did they determine saturation (of topics in interviews?) or crucial statistics (e.g. standard errors) may hinder critical appraisal of the study findings. Of course, each section of a report (title, (structured) abstract, introduction, methods, results, discussion, conclusion, references, acknowledgments, appendices) has its own requirements for essential elements that need reporting. These elements vary according to your study design. Reporting guidelines have been developed to address that problem. 
+### What are reporting guidelines?
+Incomplete reporting can be very annoying to anyone who truly wants to understand a scientific paper. In that sense, incomplete reporting is a source of waste. Especially, the lack of reporting about key methodological aspects may hinder critical appraisal of the study findings. Each section of a report (title, (structured) abstract, introduction, methods, results, discussion, conclusion, references, acknowledgments, appendices) has its own requirements for essential elements that need reporting. These elements may vary according to your study design. Reporting guidelines tell you what the necessary details are for others to get a good picture of what you did and what you found.  
 
 ---
 
-## Why is complete reporting important?
-Andre van Duin, the infamous Dutch comedian, once joked about a simulated interview with a certain Dr. B. Boral who was going to present a few ‘startling’ results. Dr. Boral, the floor is yours! Boral: ``` “49, 311, 876.” ``` Funny, right? At any rate, it underscores the methodologist’s view that results in themselves are nothing if we do not know how they came about. In addition, the [Research Waste movement](https://www.sciencedirect.com/science/article/pii/S0140673609603299?via%3Dihub) determined that incomplete reporting constitutes a fair share of wasted investments in (biomedical) science. Here is where reporting guidelines step in.
+### Why is complete reporting important?
+Study findings in themselves are worth nothing if we do not know how they came about. In addition, the [Research Waste movement](https://doi.org/10.1016/S0140-6736(09)60329-9) determined that incomplete reporting constitutes a fair share of wasted investments in (biomedical) science. Here is where reporting guidelines step in.
 
 ---
 
-## When to use reporting guidelines: at the start and at the end.
-We advise you to identify the reporting guideline(s) applicable to your study design **immediately after you determined which study design you will be using**. We recommend this because the guidelines may suggest features you would not otherwise have thought of using. Then, at the time of writing the report, you revisit the (latest version of the) guideline and use it for reporting. And by the way, more and more good journals are actively requiring you to use reporting guidelines.
+### When to use reporting guidelines: at the start and at the end.
+We advise you to identify the reporting guideline(s) applicable to your study design **immediately after you determined which study design you will be using**. We recommend this because the guidelines may suggest features you would not otherwise have thought of using. Then, at the time of writing the report, you revisit the (latest version of the) guideline and use it for reporting. Note that more and more good journals are actively requiring you to use reporting guidelines.
 
 ---
 
-## Where to find reporting guidelines?
-The easiest way, at least for medically oriented research, is to go to [equator network](https://www.equator-network.org/).
-Equator provides checklists, flow diagrams, structured text and links to elaboration papers for some of the guidelines for most common (health) study types. See table below. Of course, you may search via Google scholar and other search engines if your research design is not covered by any of the guidelines in the Equator toolbox. 
+### Where to find reporting guidelines?
+The easiest way, at least for medically oriented research, is to go to [equator network](https://www.equator-network.org/). Equator network also has a decision aid, the equator wizard, that helps you decide which guideline matches your research. You can find the wizard [here](https://www.penelope.ai/equatorwizard). Equator provides checklists, flow diagrams, structured text and links to elaboration papers for some of the more carefully developed guidelines, for example: 
 
 <table class="table">
     <thead>
@@ -62,3 +61,5 @@ Equator provides checklists, flow diagrams, structured text and links to elabora
       </tr>
     </tbody>
 </table>
+
+Of course, you may search via Google scholar and other search engines if your research design is not covered by any of the guidelines in the Equator toolbox.
