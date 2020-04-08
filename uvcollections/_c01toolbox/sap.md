@@ -19,7 +19,7 @@ A SAP describes how the data that you will collect will be handled, which includ
 ---
 
 ### Why write a (statistical) analysis plan?
-Crystal clear research objectives guide every data analysis. Before embarking on thinking about the analysis, revisit your objectives? Consider asking some of your colleagues, not directly involved in the project, to give their feedback? After all, some tunnel vision is common in many project teams. Discipline is needed to write your SAP early, even before you start collecting any data. But usually it pays off. Why?
+Crystal clear research objectives guide every data analysis. Before embarking on thinking about the analysis, revisit your objectives. Consider asking some of your colleagues, not directly involved in the project, to give their feedback. After all, some tunnel vision is common in many project teams. Discipline is needed to write your SAP early, even before you start collecting any data. But usually it pays off. Why?
 1. Developing a SAP forces you to think about which data to collect in which format early on. It may also alert you to the fact that you may be planning to collect more data than you will be using in your analyses. This may burden participants and cause them to (selectively) drop out, which may spoil the overall validity of your study. [Here](http://www.dagitty.net/) is a link to a framework that helps you select the minimally needed set of confounding factors for a valid data-analysis. A recent example taught us that the statistical repair of poor treatment adherence in a trial would have required repeatedly measuring time-dependent confounders. Unfortunately, this had been forgotten and this repair became impossible. And, collecting personal data unnecessarily is unlawful.
 2. SAP development may alert you that the necessary tools or statistical techniques are not available (in your favorite software). SAP development may also flag up that (more) statistical support needs to be organized by you or your supervisors.
 3. A good SAP, and sticking to it, may save you a lot of time that would otherwise be spent analyzing the data in haphazard ways.
@@ -29,9 +29,10 @@ Crystal clear research objectives guide every data analysis. Before embarking on
 
 ### How to write a (statistical) analysis plan?
 If you are planning or conducting a randomized trial, look [here](https://cdn.jamanetwork.com/ama/content_public/journal/jama/936638/jsc170004t1.png?Expires=2147483647&Signature=Srd2JaU0SRQ1mcKE7Cwq1Mk3fR1CsNiTLBCgNX-e8bxmqkmsmzsHzB4Y4G3t0t9H-o5LW64ZF~HcY6Q9isLQ87ZQzkliRhkJaosbPRdMLQcs7k0QNC24QeZqex0x0IFP5vBjkH9ScQmgLr29QsxTwPQIXeL-DGZzsqftf--21~wA0Q53nTrYRfzexZ1xDMIyJDlx2cmmpmBh-ISka9S-OfKRGvijBr-qoQRe3tqqUp3~Q571AHJ61~ixP3OffwOJlQ43OMzC4bdeUnHUa7Ct66WQgSba62zLoIDWWMDt9Y00i396339jA0d4s2vFL6pPC1TkSi9orRoO957eBEvXRg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA) for excellent guidance on what should be in the SAP (55 items developed by an international Delphi panel). A good way to structure section 6 of the above document is this:
-`include table`
+![alt text]({{ site.baseurl }}/img/rm_ch_sap_table1.BMP "Table 1")
+
 Or this:
-`include table`
+![alt text]({{ site.baseurl }}/img/rm_ch_sap_table2.BMP "Table 2")
 
 In the latter table a separate legend explains exactly which analyses or variables are meant by the numbers. NA means ‘Not Applicable’. 
 <br>
