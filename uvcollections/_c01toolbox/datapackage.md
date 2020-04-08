@@ -9,19 +9,17 @@ fontawesome: fa fa-check-square-o fa-stack-1x fa-inverse
 permalink: datapackage
 ---
 
-#### Archiving your research data as a data package in a data repository like UvA/HvA Figshare facilitates verification of research results. By depositing research data in a data repository, it is not only protected against corruption and loss, but also becomes findable and citable via a DOI. And it gives you the chance to intelligently open up (part of) your data to facilitate reuse.
+#### Archiving your research data as a data package in a repository like UvA/HvA Figshare facilitates verification of research results. Furthermore, it is not only protected against corruption and loss, but also becomes findable and citable via a DOI. And it gives you the chance to intelligently open up (part of) your data to facilitate reuse.
 
 ---
 
-[this chapter is not completed yet]
-
-### What is archiving?
-
----
-
-### Why is it immportant and what are benefits for you?
-By archiving a data package in a data repository you make your data more FAIR: Findable, Accessible, Interoperable and Reusable
-- Just like publications, data that you have collected is research output too. By depositing it in a data repository you increase your research output (via UvA/HvA Figshare your dataset will be automatically registered in PURE) and you increase the visibility of your work
+### Why is it important and what are benefits for you?
+- By archiving a data package in a data repository you make your data more FAIR: Findable, Accessible, Interoperable and Reusable
+- Just like publications, data that you have collected is research output too. By depositing it in a data repository you increase your research output (via UvA/HvA Figshare information about your dataset will be automatically registered in PURE)
+- You increase the visibility of your work
+- By describing your data (metadata) and providing conditions for reuse you clarify what other can and cannot do with your data
+- Your data are protected against corruption and loss
+- You facilitate verification of your research results
 
 ---
 
