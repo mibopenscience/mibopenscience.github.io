@@ -31,7 +31,7 @@ In preserving data you have to think about what data to preserve, which informat
 - You could get more credit for your work because besides citing your article other could also site the dataset
 - You prevent ad hoc hassle when you fall ill or accept another job, enabling colleagues to efficiently take over
 - Probably, in the informed consent you promised participants to take care of their (sensitive) data in a certain (careful and responsible) way
-- - Attracting new partnerships with researchers, business, policy and broader communities
+- Attracting new partnerships with researchers, business, policy and broader communities
 - Enabling new (more data-driven) research questions to be answered. In the field of AI the issue is not computing power or algorithms but the availability and accessibility (under the right conditions) of data
 
 ---
@@ -44,10 +44,9 @@ The FAIR principles provide guidelines for creating digital resources such as da
 To some extent you could apply the FAIR principles to software that you developed in a research project. Check (this website)[ https://fair-software.nl/] for five FAIR recommendations for software. Another development is the interoperability (machine-readability) of the informed consent form so that it is immediately clear for both humans and computers which data or records may be reused.
 
 #### How FAIR are you?
-You could be more or less FAIR. Below we describe a way, by creating a data package and using UvA/HvA figshare, to become ‘FAIR enough’. Becoming even more FAIR, especially in terms of interoperability and machine-readability, requires FAIR-expertise from the start of your project. The steps below are based on:
+You could be more or less FAIR. Below we describe a way, by creating a data package and using UvA/HvA figshare, to become ‘FAIR enough’. Becoming even more FAIR, especially in terms of interoperability and machine-readability, requires FAIR-expertise from the start of your project. This chapter will be updated when more results of the ‘UV zaaigeld’ project [FAIR: geen woorden maar data](https://www.hva.nl/urban-vitality/gedeelde-content/projecten/overkoepelende-projecten/fair-data.html) are available. The steps below are based on:
 - [How FAIR are your data checklist](https://doi.org/10.5281/zenodo.3405141)
 - [Guidelines to FAIRify data management and make data reusable](https://doi.org/10.5281/zenodo.3368858)
-This chapter will be updated when more results of the ‘UV zaaigeld’ project [FAIR: geen woorden maar data](https://www.hva.nl/urban-vitality/gedeelde-content/projecten/overkoepelende-projecten/fair-data.html) are available.
 
 --- 
 
@@ -81,7 +80,7 @@ Once someone finds the required data, (s)he needs to know if and how can they be
 
 #### Reusability
 The ultimate goal of FAIR is to optimize the reuse of data. To achieve this, metadata and data should be well-described and documented so that they can be replicated, understood and/or combined in different settings. Think of variable labels, codebooks, protocols and instruments used, attaching a license, etc. This helps to avoid these issues:
-[![Reuse video](https://www.youtube.com/watch?v=N2zK3sAtr-4 "Reuse")
+[![Data reuse](https://img.youtube.com/vi/N2zK3sAtr-4/0.jpg)](https://www.youtube.com/watch?v=N2zK3sAtr-4)
 
 - Create a data package to deposit in UvA/HvA figshare. See <a href="/files/UV_Datapackage_v02_concept.pdf" download="Checklist datapackage">the checklist</a> for more information about what to include in a data package
 - This checklist may not be complete yet for falling under the Dutch law ('WMO-plichtige') studies
