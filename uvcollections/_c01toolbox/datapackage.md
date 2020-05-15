@@ -80,7 +80,7 @@ Once someone finds the required data, (s)he needs to know if and how they can be
 
 #### Reusability
 The ultimate goal of FAIR is to optimize the reuse of data. To achieve this, metadata and data should be well-described and documented so that they can be replicated, understood and/or combined in different settings. Think of variable labels, codebooks, protocols and instruments used, attaching a license, etc. This helps to avoid these issues:
-</br>
+<br>
 [![Data reuse](https://img.youtube.com/vi/N2zK3sAtr-4/0.jpg)](https://www.youtube.com/watch?v=N2zK3sAtr-4)
 
 - Create a data package to deposit in UvA/HvA figshare. See <a href="/files/UV_Datapackage_v02_concept.pdf" download="Checklist datapackage">the checklist</a> for more information about what to include in a data package
