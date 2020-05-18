@@ -9,7 +9,7 @@ fontawesome: fa fa-eur fa-stack-1x fa-inverse
 permalink: preregistration
 ---
 
-#### Preregistration
+#### Preregistration is a time-stamped, non-modifiable public record of detailed research and analysis plans and helps to avoid selective revealing or suppression of results.
 
 ---
 
