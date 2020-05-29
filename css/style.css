@@ -168,3 +168,7 @@ header .navbar-default .navbar-nav {
 #portfolio-work .portfolio-menu p {
   margin-top: 10px;
 }
+
+.jumbotron p {
+  font-size: 15px;
+}
